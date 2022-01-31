@@ -1,0 +1,22 @@
+{
+  "spellcheck": true,
+  "emacsyKeys": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "strictLineBreaks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
