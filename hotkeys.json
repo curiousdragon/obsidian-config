@@ -75,14 +75,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "quick-latex:addAlignBlock": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "E"
-    }
-  ],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -91,5 +83,34 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "cm-show-whitespace-obsidian:toggle-show-whitespace": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:insert-embed": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:toggle-italics": [],
+  "table-editor-obsidian:center-align-column": []
 }

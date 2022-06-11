@@ -2,5 +2,10 @@
   "baseFontSize": 16,
   "translucency": false,
   "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "clean-embeds-all",
+    "vault-statistics-all"
+  ],
+  "baseFontSizeAction": false
 }

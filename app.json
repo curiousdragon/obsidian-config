@@ -1,14 +1,14 @@
 {
   "spellcheck": true,
   "emacsyKeys": false,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
   "strictLineBreaks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": false,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byCreatedTime",
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "attachmentFolderPath": "./assets",
@@ -18,5 +18,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "useTab": false,
+  "livePreview": true
 }
