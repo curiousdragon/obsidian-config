@@ -3,21 +3,22 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "(YYYY) MMM DD, ddd",
-    "folder": "daily",
-    "template": "daily/template-daily.md",
+    "format": "YYYY-MM-DD",
+    "folder": "time/daily",
+    "template": "time-templates/template-daily.md",
     "enabled": true
   },
   "weekly": {
-    "format": "(YYYY) MMM DD, [weekly]",
-    "template": "weekly/template-weekly.md",
-    "folder": "weekly",
+    "format": "YYYY-MM-DD-[weekly]",
+    "template": "time-templates/template-weekly.md",
+    "folder": "time/weekly",
     "enabled": true
   },
   "monthly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YYYY-MM-[monthly]",
+    "template": "time-templates/template-monthly.md",
+    "folder": "time/monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
