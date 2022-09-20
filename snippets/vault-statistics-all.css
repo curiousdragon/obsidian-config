@@ -1,4 +1,12 @@
-/* Show all vault statistics. */
+/* Show no vault statistics by default. */
 .obsidian-vault-statistics--item {
+    display: none !important;
+}
+
+/* Show notes, size, links, words. */
+.obsidian-vault-statistics--item-notes,
+.obsidian-vault-statistics--item-size,
+.obsidian-vault-statistics--item-links,
+.obsidian-vault-statistics--item-words {
     display: initial !important;
 }

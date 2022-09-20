@@ -1,7 +1,7 @@
 {
   "spellcheck": true,
   "emacsyKeys": false,
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": true,
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
