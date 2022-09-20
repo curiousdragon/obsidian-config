@@ -1,0 +1,5 @@
+# .gitignore for .obsidian folder
+.DS_Store
+workspace*
+starred*
+data.json
