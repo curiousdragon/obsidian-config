@@ -1,14 +1,17 @@
 [
-  "obsidian-hider",
-  "obsidian-minimal-settings",
+  "obsidian-vault-statistics-plugin",
+  "obsidian-rollover-daily-todos",
+  "quick-latex",
+  "periodic-notes",
   "url-into-selection",
+  "note-refactor-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-hider",
   "cm-editor-syntax-highlight-obsidian",
   "calendar",
-  "periodic-notes",
   "table-editor-obsidian",
-  "quick-latex",
-  "note-refactor-obsidian",
-  "obsidian-rollover-daily-todos",
-  "open-vscode",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-trim-whitespace",
+  "emoji-shortcodes",
+  "better-word-count",
+  "obsidian-git"
 ]

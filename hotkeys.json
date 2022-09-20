@@ -112,5 +112,22 @@
   ],
   "editor:delete-paragraph": [],
   "editor:toggle-italics": [],
-  "table-editor-obsidian:center-align-column": []
+  "table-editor-obsidian:center-align-column": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": []
 }
