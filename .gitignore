@@ -3,3 +3,6 @@
 workspace*
 starred*
 data.json
+
+# specific plugin configs to ignore
+plugins/obsidian-git/*
