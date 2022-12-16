@@ -3,9 +3,9 @@
   "translucency": false,
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "enabledCssSnippets": [
-    "clean-embeds-all",
-    "vault-statistics-all"
-  ],
-  "baseFontSizeAction": false
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": false,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true
 }

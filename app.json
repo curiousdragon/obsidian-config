@@ -16,7 +16,7 @@
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   },
   "useTab": false,
@@ -43,5 +43,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "showInlineTitle": true
 }
