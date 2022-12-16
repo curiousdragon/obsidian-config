@@ -1,6 +1,6 @@
 {
   "AutoTrimDocument": true,
-  "AutoTrimTimeout": 2.5,
+  "AutoTrimTimeout": 5,
   "SkipCodeBlocks": false,
   "TrimTrailingSpaces": true,
   "TrimLeadingSpaces": false,
