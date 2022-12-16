@@ -5,13 +5,14 @@
   "periodic-notes",
   "url-into-selection",
   "note-refactor-obsidian",
-  "obsidian-minimal-settings",
-  "obsidian-hider",
   "cm-editor-syntax-highlight-obsidian",
   "calendar",
   "table-editor-obsidian",
   "obsidian-trim-whitespace",
   "emoji-shortcodes",
-  "better-word-count",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-hider",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "better-word-count"
 ]
