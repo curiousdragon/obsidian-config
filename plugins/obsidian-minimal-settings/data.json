@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
-  "lightStyle": "minimal-light-tonal",
+  "lightStyle": "minimal-light-white",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-nord-light",
-  "darkScheme": "minimal-catppuccin-dark",
+  "lightScheme": "minimal-things-light",
+  "darkScheme": "minimal-things-dark",
   "editorFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
   "lineHeight": 1.5,
   "lineWidth": 40,
