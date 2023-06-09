@@ -14,5 +14,7 @@
   "obsidian-hider",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "better-word-count"
+  "better-word-count",
+  "webpage-html-export",
+  "obsidian-pandoc"
 ]
