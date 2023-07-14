@@ -16,5 +16,6 @@
   "obsidian-style-settings",
   "better-word-count",
   "webpage-html-export",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "find-unlinked-files"
 ]
