@@ -16,7 +16,7 @@ cp -r .obsidian previous_obsidian_configs
 git clone https://github.com/curiousdragon/obsidian-config.git .obsidian
 ```
 
-*Without* making a copy of the existing`.obsidian` folder:
+*Without* making a copy of the existing `.obsidian` folder:
 
 ```bash
 # Navigate to your vault folder
